@@ -1,0 +1,22 @@
+img { width: 50px; }
+
+.item-show-log-most-shown { background: #DDD; 
+    padding: 20px 20px 40px 20px;
+}
+
+.item-show-log-row { clear: left; 
+    margin: 10px 0px;
+}
+
+
+.item-show-log-thumbnail { float: left; 
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0px 10px 5px 10px;
+    background: #999;
+}
+.item-show-log-title { font-weight: bold; 
+    font-size: 110%;
+}
+

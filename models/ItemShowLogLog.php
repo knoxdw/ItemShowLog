@@ -1,9 +1,5 @@
 <?php
 
-
-
-
-
 class ItemShowLogLog extends Omeka_Record
 {
 	
@@ -11,9 +7,6 @@ class ItemShowLogLog extends Omeka_Record
 	public $item_id;
 	public $ip_address;
 	public $timestamp;
-	
-	
-	
 	
 }
 ?>
